@@ -1,6 +1,6 @@
 # Unknown-Environment-Navigation-and-Mapping
 
-[image1]: ./Images/map.jpg "map"
+[image1]: ./Images/MapResult.JPG "map"
 [image2]: ./Images/Simulation.JPG "Simulation"
 [image3]: ./Images/Trial.JPG "Trial"
 
